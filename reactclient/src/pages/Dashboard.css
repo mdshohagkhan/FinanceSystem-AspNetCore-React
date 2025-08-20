@@ -1,0 +1,127 @@
+/* Dashboard Container and Header */
+.dashboard-container {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.dashboard-header {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #343a40;
+  margin-bottom: 3rem;
+  position: relative;
+}
+
+.dashboard-header::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background-color: #28a745;
+  margin: 10px auto 0;
+  border-radius: 2px;
+}
+
+/* Navigation Hub */
+.dashboard-nav .nav-link {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #495057;
+  border-radius: 50px;
+  padding: 10px 25px;
+  transition: all 0.3s ease;
+}
+
+.dashboard-nav .nav-link:hover {
+  background-color: #e9ecef;
+  color: #007bff;
+}
+
+.dashboard-nav .nav-link.active {
+  background-color: #007bff;
+  color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 123, 255, 0.2);
+}
+
+/* Stat Cards */
+.dashboard-card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  height: 100%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.dashboard-card .card-body {
+  padding: 1.5rem;
+}
+
+.card-icon-wrapper {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-icon {
+  font-size: 1.8rem;
+}
+
+.card-content {
+  flex-grow: 1;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0.2rem;
+  opacity: 0.8;
+}
+
+.card-value {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* Card Specific Colors */
+.card-clients { background: linear-gradient(45deg, #007bff, #0056b3); }
+.card-projects { background: linear-gradient(45deg, #28a745, #1e7e34); }
+.card-invoices { background: linear-gradient(45deg, #ffc107, #d39e00); }
+.card-accounts { background: linear-gradient(45deg, #17a2b8, #117a8b); }
+.card-revenue { background: linear-gradient(45deg, #dc3545, #b82c39); }
+
+
+/* Overview & Quick Actions Card */
+.dashboard-quick-actions {
+  border-radius: 1rem;
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+}
+
+.quick-actions-title {
+  font-weight: 600;
+  color: #343a40;
+}
+
+.quick-actions-description {
+  color: #6c757d;
+}
+
+.dashboard-quick-actions .btn {
+  border-radius: 20px;
+  padding: 8px 20px;
+  font-weight: 500;
+}

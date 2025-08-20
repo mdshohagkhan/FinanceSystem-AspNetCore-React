@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\projecttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\projecttaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\migrations\\20250812175526_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\migrations\\20250812175526_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Clients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Invoices.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Accounts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.ProjectTasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812172232_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812165654_initse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812154441_inits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812153705_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|c:\\financesystem-aspnetcore-react\\financialmanagementsystemsln\\financialmanagementsystems\\financialmanagementsystems.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF80D6BB-A853-4D47-9702-8ED8619B16FF}|FinancialManagementSystems\\FinancialManagementSystems.csproj|solutionrelative:financialmanagementsystems\\financialmanagementsystems.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Program.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Program.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Program.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:26:06.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:23:17.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:47:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:49:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\ProjectTask.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\ProjectTask.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\ProjectTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:23:46.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\Project.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Project.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\Project.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:23:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:57:41.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\InvoicesController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAmwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:36:08.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwGsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:30:24.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectTasksController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ProjectTasksController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\ProjectTasksController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\ProjectTasksController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\ProjectTasksController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:33:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\Invoice.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Invoice.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:24:01.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\Client.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Client.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:22:44.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Models\\Account.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Models\\Account.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Models\\Account.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:10:35.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:24:43.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:43:26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.ProjectTasks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.ProjectTasks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.ProjectTasks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-14T21:59:56.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250812175526_init.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812175526_init.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Migrations\\20250812175526_init.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812175526_init.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Migrations\\20250812175526_init.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:55:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.Projects.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Projects.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-14T22:00:31.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Clients.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Clients.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Clients.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-14T22:00:37.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Invoices.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Invoices.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Invoices.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-14T22:00:34.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Accounts.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Accounts.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/FinancialManagementDb/True/SqlTable/dbo.Accounts.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-13T16:47:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\appsettings.json",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\appsettings.json",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\appsettings.json",
+              "RelativeToolTip": "FinancialManagementSystems\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T15:25:30.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinancialManagementSystems\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-12T16:22:24.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250812172232_init.cs",
+              "DocumentMoniker": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812172232_init.cs",
+              "ToolTip": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812172232_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:22:32.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FinancialManagementSystems\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:16:58.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250812165654_initse.cs",
+              "DocumentMoniker": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812165654_initse.cs",
+              "ToolTip": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812165654_initse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T16:56:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250812154441_inits.cs",
+              "DocumentMoniker": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812154441_inits.cs",
+              "ToolTip": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812154441_inits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:44:41.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250812153705_init.cs",
+              "DocumentMoniker": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812153705_init.cs",
+              "ToolTip": "E:\\FinancialManagementSystem\\FinancialManagementSystemsln\\FinancialManagementSystems\\Migrations\\20250812153705_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T15:37:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FinancialManagementSystems.csproj",
+              "DocumentMoniker": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\FinancialManagementSystems.csproj",
+              "RelativeDocumentMoniker": "FinancialManagementSystems\\FinancialManagementSystems.csproj",
+              "ToolTip": "C:\\FinanceSystem-AspNetCore-React\\FinancialManagementSystemsln\\FinancialManagementSystems\\FinancialManagementSystems.csproj",
+              "RelativeToolTip": "FinancialManagementSystems\\FinancialManagementSystems.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-12T15:19:07.772Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
