@@ -124,10 +124,14 @@ npm run build
 
 🧾 Account Summary
 
-🎥 Demo Video
-👉 Watch the full video on YouTube to see the app in action:
+### 📺 Project Demo (YouTube)
 
-🎬 Click to Watch Demo Video
+Check out the full walkthrough and feature demo of the **Full-Stack Finance Management System** built with ASP.NET Core & React:
+
+[![Watch the video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
+
+🔗 **Watch on YouTube**: [https://youtu.be/XmQAgUvcJqw](https://youtu.be/XmQAgUvcJqw)
+
 
 🤝 Contributing
 Fork the repo
