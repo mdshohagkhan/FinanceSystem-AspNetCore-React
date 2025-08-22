@@ -127,9 +127,10 @@ npm run build
 ## 🎥 Demo Video
 
 ### 🔹 Full Walkthrough on YouTube  
-Click the image below to watch the full project demo:
-
 [![Watch the video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
+
+👉 [Watch on YouTube](https://youtu.be/XmQAgUvcJqw)
+
 
 
 
