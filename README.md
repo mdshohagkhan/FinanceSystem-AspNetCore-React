@@ -61,7 +61,7 @@ Copy code
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repo
+### <h3 1️⃣ Clone the Repo></h3>
 
 ```bash
 git clone https://github.com/mdshohagkhan/FinanceSystem-AspNetCore-React.git
@@ -126,11 +126,9 @@ npm run build
 
 ### 📺 Project Demo (YouTube)
 
-Check out the full walkthrough and feature demo of the **Full-Stack Finance Management System** built with ASP.NET Core & React:
 
-[![Watch the video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
 
-🔗 **Watch on YouTube**: [https://youtu.be/XmQAgUvcJqw](https://youtu.be/XmQAgUvcJqw)
+🔗 Watch on YouTube: https://youtu.be/XmQAgUvcJqw
 
 
 🤝 Contributing
