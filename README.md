@@ -131,7 +131,6 @@ Click the image below to watch the full project demo:
 
 [![Watch the video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
 
-[![Test Video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
 
 
 
