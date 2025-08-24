@@ -66,56 +66,62 @@ Copy code
 ```bash
 git clone https://github.com/mdshohagkhan/FinanceSystem-AspNetCore-React.git
 cd FinanceSystem-AspNetCore-React
-2️⃣ Backend Setup
-bash
-Copy code
+----
+2️⃣ Backend Setup (ASP.NET Core)
 cd FinancialManagementSystems
 dotnet restore
 dotnet run
+# 👉 Runs at: https://localhost:5001
+----
+
 # 🟢 Runs at: https://localhost:5001
-3️⃣ Frontend Setup
-bash
-Copy code
-cd frontend
+----
+##3️⃣ Frontend Setup (React + Vite)
+cd ../frontend
 npm install
 npm run dev
-# 🟢 Runs at: http://localhost:5173
-🔑 Demo Credentials
-Role	Username	Password
-Admin	admin	admin123
+# 👉 Runs at: http://localhost:5173
+----
 
-🌟 Core Features
-🧑‍💼 Role-Based Access – Admin, Manager, User
+##🔑 Demo Credentials
+| Role  | Username | Password |
+| ----- | -------- | -------- |
+| Admin | admin    | admin123 |
 
-💳 Manage Accounts, Transactions, Expenses
+----
+##✨ Features
 
-📊 Real-time Financial Reporting
-
-🔗 Clean REST API Integration
-
+✅ Role-Based Access – Admin, Manager, User
+💳 Manage Accounts, Transactions, and Expenses
+📊 Real-time Financial Dashboard & Reports
+🔗 RESTful API integration
 🧱 Modular & Scalable Architecture
+----
 
-⚙️ Environment Variables
+##⚙️ Environment Variables
 🔧 Backend (.env or appsettings.json)
 ini
 Copy code
 ConnectionStrings__DefaultConnection=Your-SQLServer-Connection-String
-🌐 Frontend (.env)
+---
+##🌐 Frontend (.env)
 bash
 Copy code
 VITE_API_URL=http://localhost:5000/api
+---
 📦 Build & Deployment
 🔨 Backend
 bash
 Copy code
 dotnet publish -c Release
-🌐 Frontend
+---
+##🌐 Frontend
 bash
 Copy code
 npm run build
 ✅ Easily deploy to Azure, Vercel, or Docker.
 
-📸 Screenshots
+##📸 Screenshots
 
 
 🔐 Login Page
@@ -129,15 +135,16 @@ npm run build
 ### 🔹 Full Walkthrough on YouTube  
 [![Watch the video](https://img.youtube.com/vi/XmQAgUvcJqw/0.jpg)](https://youtu.be/XmQAgUvcJqw)
 
-👉 [Watch on YouTube](https://youtu.be/XmQAgUvcJqw)
+##👉 [Watch on YouTube](https://youtu.be/XmQAgUvcJqw?si=iNA2OD80sfsTghaW)
 
 
 
 
 
 
-🤝 Contributing
-Fork the repo
+##🤝 Contribution Guide
+
+Fork the repository
 
 Create a new branch: feature/your-feature
 
